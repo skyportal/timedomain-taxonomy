@@ -19,3 +19,11 @@ subclasses:
   - class: BY Dra
     tags: [class G/K/M, dwarf, starspots, quasiperiodic]
     other names: [BY, BYDraconis]
+  - class: Cyclotron emitting magnetic white dwarf
+    comments: |
+      Magnetic white dwarf in a close binary, accreting at a low rate from its
+      companion. The light varies as the cyclotron emitting region rotates into
+      view, so the photometric period is the white dwarf spin (= orbital) period.
+    tags: [white dwarf, magnetic, cyclotron, binary, low accretion rate]
+    other names: [pre-polar, low accretion rate polar, LARP]
+    links: ["https://www.aanda.org/articles/aa/full_html/2025/04/aa51945-24/aa51945-24.html"]
