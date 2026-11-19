@@ -12,6 +12,13 @@ subclasses:
   - class: RS CVn
     tags: [active chromosphere, eruptive, radio emission, X-ray emission, Ca II emission]
     other names: [RS Canum Venaticorum, RS Can Venat, RS]
+  - class: Ellipsoidal
+    comments: |
+      Close binary that does not eclipse. One or both stars are tidally
+      distorted, so the light varies twice per orbit as the projected area
+      changes, and the strongest periodogram peak is at half the orbital period.
+    tags: [close binary, tidal distortion, non-eclipsing, ellipsoidal]
+    other names: [ELL, Ellipsoidal variable]
   - class: W Ursae Maj
     tags: [contact binary, ellipsoidal]
     other names: [EW, W Ursae Majoris, W UMa]
